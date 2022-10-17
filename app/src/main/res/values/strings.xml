@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My garage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="garage">Garage</string>
+    <string name="LUZ">Desea encender la luz</string>
+    <string name="programarautomatico">encender luz automaticamente</string>
+    <string name="fecha">ingrese la fecha</string>
+    <string name="hora">ingresa la hora</string>
+    <string name="horayfechadeinicio">hora y fecha de inicio automatico</string>
+    <string name="horadefinalizacion">fecha y hora de termino automatico</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="cencender">si</string>
+    <string name="cender">no</string>
+    <string name="offon"></string>
+    <string name="informacion">Inforcion</string>
+    <string name="luz">Luz</string>
+    <string name="controldepuerta">Control de puerta</string>
+    <string name="encendidoventilador">¿desea encender el ventilador?</string>
+    <string name="grados">21°C</string>
+    <string name="si">cerrar</string>
+    <string name="no">abrir</string>
+    <string name="errores">Ayuda sobre errores</string>
+    <string name="puerta">puertas</string>
+    <string name="dispositivosañadidos">Dispositivo sincronizado</string>
+    <string name="añadirpuerta">Añadir dispositivo</string>
+    <string name="datosayuda">si tienes  algún problema contacta con nuestro soporte
+    correo:cristophercolo13gmail.com
+    numero de contacto:966464630
+    discord:cristopher#2323
+    no dudes en contactar para poder solucionar tu problemas</string>
+    <string name="definiciontemp">función de control de temperatura : luego de haber presionado sobre la opción de temperatura esta te desplegara un menú , este mostrara 2 gráficos ,uno de ellos mostrara la temperatura alcanzada durante los días y la otra mostrara  la temperatura altear si esta es muy alta podrás encender el ventilador,si la temperatura es muy alta saldra un simbolo de advertencia el cual se pondra en rojo al </string>
+    <string name="definicionluz">función de control de luz: al presionar esta función te llevara a una pantalla en la cual  puedes  apagar y encender la luz y podrás programar un encendido y un apagado automático dependiendo la hora de inicio y de fin el el menú ya desplegado </string>
+    <string name="cntroauida">Centro de ayuda</string>
+    <string name="funciones">Explicacion de las funciones</string>
+    <string name="control">función de control de mecánica: al igual que las otras funciones puedes hacer presión sobre ella la cual te guiara a un menú en el cual puedes vincular por vía bluetooth un garaje y este permitira sacar una foto para poder saber el objeto al cual se a agregado</string>
+    <string name="iniciarguardado">iniciar/guardado</string>
+    <string name="cancelado">cancelar/borrar</string>
+</resources>
+
